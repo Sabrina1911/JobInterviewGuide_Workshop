@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sabrina/1557_VSC/DataAnalysis/PredictiveMaintenance_Lab1_Orchestration/mlruns/0/456f4386b67e47f4a99af5b885bfa95d/artifacts
+end_time: 1758867007414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 456f4386b67e47f4a99af5b885bfa95d
+run_name: train-readings_fact_csv
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758867007191
+status: 4
+tags: []
+user_id: Sabrina
